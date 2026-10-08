@@ -1,0 +1,14 @@
+backend/.env
+backend/__pycache__/
+backend/**/*.pyc
+backend/users.db
+backend/vector_db/
+backend/uploads/
+
+frontend/node_modules/
+frontend/dist/
+
+.env
+node_modules/
+
+.vscode/
